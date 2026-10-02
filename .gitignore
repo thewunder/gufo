@@ -1,0 +1,7 @@
+*
+!.gitignore
+!PKGBUILD
+!.SRCINFO
+!.nvchecker.toml
+!gufo.install
+!README.md
